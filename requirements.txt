@@ -1,0 +1,7 @@
+conda create -n 3d_ob_de python=3.8
+conda activate 3d_ob_de
+conda install pandas
+conda install tqdm
+conda install opencv
+conda install -c conda-forge ipywidgets
+conda install matplotlib
