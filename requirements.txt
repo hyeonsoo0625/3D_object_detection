@@ -5,3 +5,4 @@ conda install tqdm
 conda install opencv
 conda install -c conda-forge ipywidgets
 conda install matplotlib
+conda install plotly
