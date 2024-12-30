@@ -7,3 +7,4 @@ conda install -c conda-forge ipywidgets
 conda install matplotlib
 conda install plotly
 conda install scipy
+conda install pyquaternion
